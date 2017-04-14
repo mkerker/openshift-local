@@ -1,4 +1,4 @@
-##Setting up a Local OpenShift Cluster
+## Setting up a Local OpenShift Cluster
 
 In this chapter we will use OpenShift Command Line Interface (CLI) to spin up a local cluster on your machine.
 
